@@ -6,7 +6,7 @@ learning and structured knowledge sharing. It’s designed to be simple, user-fr
 and focused on the core experience of asking and answering questions within a  
 community.
 
-**Team Name** : Syntax Girls  
+**Team Name** : Syntax Girls / Team 2033 
 **Email** : 23ce060@charusat.edu.in
           : 23ce008@charusat.edu.in
           : 23dcs133@charusat.edu.in
