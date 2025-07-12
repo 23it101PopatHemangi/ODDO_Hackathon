@@ -1,33 +1,44 @@
-Problem Statement : StackIt – A Minimal Q&A Forum Platform 
-Overview : 
-StackIt is a minimal question-and-answer platform that supports collaborative 
-learning and structured knowledge sharing. It’s designed to be simple, user-friendly, 
-and focused on the core experience of asking and answering questions within a 
-community. 
+# **Problem Statement** : StackIt – A Minimal Q&A Forum Platform
 
-Team Name : Syntax Girls 
+## **Overview** :
+**StackIt** is a minimal question-and-answer platform that supports collaborative  
+learning and structured knowledge sharing. It’s designed to be simple, user-friendly,  
+and focused on the core experience of asking and answering questions within a  
+community.
 
-Email : 23ce060@charusat.edu.in
+**Team Name** : Syntax Girls  
+**Email** : 23ce060@charusat.edu.in
+          : 23ce008@charusat.edu.in
+          : 23dcs133@charusat.edu.in
+          : 23it101@charusat.edu.in
 
-#How to run StackIt
 
-Step-1 Abstract Folder
 
-Step-2 Open folder in VS code
+## **How to run StackIt**
 
-Step-3 Open -> Terminal -> python manage.py runserver
+1. **Step-1**: Open the `Abstract` Folder  
+2. **Step-2**: Open the folder in **VS Code**  
+3. **Step-3**: Open → Terminal → `python manage.py runserver`  
+4. **Step-4**: Server running on `https://127.0.0.1:8000/`
 
-Step-4 Server running on https://127.0.0.1:8000/
+---
+## **How to see the Admin**
 
-#How to see the Database
+1. **Step-1**: To view the Admin Panel,  `python manage.py createsuperuser`  
+2. **Step-2**: Set username and password as asked
+3. **Step-3**: Open → Terminal → `python manage.py runserver` 
+4. **Step-4**: Admin panel on `https://127.0.0.1:8000/admin`
+5. **Step-5**: Login to Admin Panel with proper credentials and will able to see the database
+               and can also modify from the same
 
-Step-1 To See the database Install DB Browser for SQLite 
-       => https://sqlitebrowser.org/
-Step -2 Launch locally in device
 
-Step -3 Open-> Click-> Open Database and 
-        browse db.sqlite3
 
-Step-4 Click-> OK. Ready to see the Database
+## **How to see the full overview of  Database**
+
+1. **Step-1**: To view the database, install **DB Browser for SQLite**  
+   ➡️ https://sqlitebrowser.org/
+2. **Step-2**: Launch the app locally
+3. **Step-3**: Click → **Open Database** → browse `db.sqlite3`
+4. **Step-4**: Click → **OK** → Ready to see the database
 
 
