@@ -43,3 +43,4 @@ community.
 4. **Step-4**: Click → **OK** → Ready to see the database
 
 
+![Alt Text](![WhatsApp Image 2025-07-12 at 16 19 24_6d1ac27f](https://github.com/user-attachments/assets/a4c43a74-57e8-493a-bc05-bd9c102f828d))
