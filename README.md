@@ -19,7 +19,7 @@ community.
 1. **Step-1**: Open the `Abstract` Folder  
 2. **Step-2**: Open the folder in **VS Code**  
 3. **Step-3**: Open → Terminal → `python manage.py runserver`  
-4. **Step-4**: Server running on `https://127.0.0.1:8000/`
+4. **Step-4**: Server running on [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 ---
 ## **How to see the Admin**
@@ -27,7 +27,7 @@ community.
 1. **Step-1**: To view the Admin Panel,  `python manage.py createsuperuser`  
 2. **Step-2**: Set username and password as asked
 3. **Step-3**: Open → Terminal → `python manage.py runserver` 
-4. **Step-4**: Admin panel on `https://127.0.0.1:8000/admin`
+4. **Step-4**:  Admin panel on [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
 5. **Step-5**: Login to Admin Panel with proper credentials and will able to see the database
                and can also modify from the same
 
